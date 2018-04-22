@@ -1,0 +1,26 @@
+{
+  "name": "newman-reporter-debug",
+  "version": "0.1.0",
+  "description": "A custom reporter for newman that provides information about what is going on during the collection run.",
+  "main": "lib/index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "postman",
+    "newman",
+    "reporter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakpathania/newman-reporter-debug.git"
+  },
+  "author": "Deepak Pathania",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "colors": "1.2.1",
+    "filesize": "3.6.1",
+    "lodash": "4.17.5",
+    "pretty-ms": "3.1.0"
+  }
+}
